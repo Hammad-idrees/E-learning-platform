@@ -1,0 +1,15 @@
+Transition Plan to AWS S3
+(No code changes needed now - future-ready structure)
+
+Paths will remain identical:
+
+Local: public/uploads/courses/{id}/videos/{id}/master.m3u8
+
+S3: s3://your-bucket/uploads/courses/{id}/videos/{id}/master.m3u8
+
+Only these will change later:
+
+Switch uploadToS3() instead of local save
+
+Update URL generation in controllers
+
