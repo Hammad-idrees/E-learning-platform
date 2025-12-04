@@ -15,7 +15,11 @@
 - **React Query** - Data fetching
 - **Video.js** - Video player
 
+## Video 
+https://drive.google.com/file/d/10zkuJMuSmqsGq0di6rFaEMiXbcb6EC2M/view?usp=drive_link
+
 ## Screenshots
+
 
 Student Panel:
 <img width="1889" height="916" alt="image" src="https://github.com/user-attachments/assets/1736a9b1-ccb5-4caa-a282-2d33f97f1ef2" />
